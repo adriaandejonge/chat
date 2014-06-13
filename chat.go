@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/bmizerany/pat"
 	"net/http"
-	"./chat"
+	"github.com/adriaandejonge/chat/chat"
 
 	// TEMP:
 	_ "net/http/pprof"
