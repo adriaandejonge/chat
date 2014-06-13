@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/go.net/websocket"
+	"github.com/adriaandejonge/chat/websocket"
 	"fmt"
 	"github.com/bmizerany/pat"
 	"net/http"
