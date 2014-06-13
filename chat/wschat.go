@@ -1,7 +1,7 @@
 package chat
 
 import (
-	"code.google.com/p/go.net/websocket"
+	"github.com/adriaandejonge/chat/websocket"
 )
 
 
